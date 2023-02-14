@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "docgen": "vue-docgen ./index.vue docs"
+  },
+  "dependencies": {
+    "vue-docgen-cli": "^4.57.1"
+  }
+}
